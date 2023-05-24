@@ -1,0 +1,11 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "file"
+    }
+  ]
+}
